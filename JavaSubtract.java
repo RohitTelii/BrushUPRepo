@@ -1,5 +1,9 @@
 public class JavaSubtract {
     public static void main(String[] args) {
-        System.out.println("subtract");
+int a=4;
+int b=5;
+int sub= b-a;
+
+        System.out.println("subtraction is : " + sub);
     }
 }
